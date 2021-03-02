@@ -32,3 +32,8 @@ moderation, economy, meme, leveling and more. You can can get it on http://disco
 This bot is a W.I.P (Work in Progress). I am still working on it. I am making it for another user
 on Discord. It is not my bot. But, I do have permission to tell you about. It will have features like,
 moderation, economy, meme and fun.
+
+### Contact Me 
+Discord: AriesTropixDev#7721
+ 
+Email: daringriver4@yahoo.com
