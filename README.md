@@ -26,7 +26,7 @@ I am a Developer, that is experienced with discord bots and websites!!! If you w
 
 **Ratchet**
 Ratchet is a cool discord bot. Which is my main bot. That has all kinds of cool features such as,
-moderation, economy, meme, leveling and more. You can can get it on http://discord.me/ratchet.
+moderation, economy, meme, leveling and more. You can can get it on <http://discord.me/ratchet>.
 
 **Treatbot**
 This bot is a W.I.P (Work in Progress). I am still working on it. I am making it for another user
