@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to AriesTropixDev Directory!!!
 
-You can use the [editor on GitHub](https://github.com/AriesTropixDev/ratchet-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Developer, that is experienced with discord bots and websites!!! If you want to contact me so I could make a website or discord bot, please go to
+https://ariestropixdev.github.io/ratchet-website/#contact-me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**I use the following languages:**
 
-### Markdown
+-Node.js
+-HTML 5
+-CSS
+-Java
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**I am Best at:**
 
-```markdown
-Syntax highlighted code block
+-Node.js
+-HTML 5
+-CSS
 
-# Header 1
-## Header 2
-### Header 3
+### My Creations
 
-- Bulleted
-- List
+**Ratchet**
+Its my main discord bot, its my best one it has 9 servers using it and still growing!!!
+You can get it at this button below. It has moderation, economy, meme and more commands to choose from!!!
+So please invite this bot and support. Thank you.
 
-1. Numbered
-2. List
+**Treatbot**
+This bot is a W.I.P, It is not my bot, but I am getting back to this bot ASAP.
+But it will have moderation, fun, economy and meme. So stay tuned!!!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Me
 
-### Jekyll Themes
+Email: daringriver4@yahoo.com
+Discord: AriesTropixDev#7721
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AriesTropixDev/ratchet-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Social Pages
 
-### Support or Contact
+Reddit
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+{% include button.html url="https://www.reddit.com/user/AriesTropical" %}
+
+Github
+
+{% include button.html url="https://github.com/AriesTropixDev" %}
