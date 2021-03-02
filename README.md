@@ -5,16 +5,16 @@ https://ariestropixdev.github.io/ratchet-website/#contact-me
 
 **I use the following languages:**
 
--Node.js
--HTML 5
--CSS
--Java
+*Node.js
+*HTML 5
+*CSS
+*Java
 
 **I am Best at:**
 
--Node.js
--HTML 5
--CSS
+*Node.js
+*HTML 5
+*CSS
 
 ### My Creations
 
