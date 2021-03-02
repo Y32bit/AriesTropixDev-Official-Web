@@ -36,4 +36,4 @@ moderation, economy, meme and fun.
 ### Contact Me 
 Discord: AriesTropixDev#7721
  
-Email: daringriver4@yahoo.com
+Email: <daringriver4@yahoo.com>
