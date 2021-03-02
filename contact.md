@@ -1,4 +1,3 @@
-### Contact Me
-
-**Email: daringriver4@yahoo.com**
-**Discord: AriesTropixDev#7721**
+layout: page
+title: "PAGE TITLE"
+permalink: /URL-PATH/
