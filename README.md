@@ -1,6 +1,6 @@
-## Welcome to AriesTropixDev Directory!!!
 
-I am a Developer, that is experienced with discord bots and websites!!! If you want to contact me so I could make a website or discord bot, please go to
+
+Hi!! I am AriesTropixDev. I am experienced with discord bots and websites!!! If you want to contact me so I could make a website or discord bot, please go to
 [Contact Me](https://ariestropixdev.github.io/AriesTropixDev-Official-Web/#contact-me)
 
 **I use the following languages:**
