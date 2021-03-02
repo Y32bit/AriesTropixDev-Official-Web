@@ -5,21 +5,21 @@ https://ariestropixdev.github.io/AriesTropixDev-Official-Web/#contact-me
 
 **I use the following languages:**
 
-*Node.js
+* Node.js
 
-*HTML 5
+* HTML 5
 
-*CSS
+* CSS
 
-*Java
+* Java
 
 **I am Best at:**
 
-*Node.js
+* Node.js
 
-*HTML 5
+* HTML 5
 
-*CSS
+* CSS
 
 
 ### My Creations
