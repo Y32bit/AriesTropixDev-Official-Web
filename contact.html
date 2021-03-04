@@ -37,12 +37,16 @@ font-family: Verdana;
 
     <form method="POST" action="process.php">
 
-    Name: <input type="text" />
+    Name: <input type="text" name="user_name" />
       <p></p>
-    Email: <input type="text" />
+    Email: <input type="text" name="email" />
       <p></p>
-      <textarea>Message...</textarea>
-
+      Message:
+      <p></p>
+      <textarea rows="10" cols="40" name="body"></textarea>
+      <p></p>
+      <input type="submit" value="Send" name="submit"/>
+    </form>
   </center>                                                                                                     
   </body>
 </html>
