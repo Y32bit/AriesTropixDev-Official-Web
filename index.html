@@ -1,10 +1,8 @@
 <html>
 <head>
   <title>AriesTropixDev Official Web - Home</title>
+  <link rel="shortcut icon" type="image/jpg" href="favicon.png"/>
 <style>
-body {
-background: 'https://github.com/AriesTropixDev/AriesTropixDev-Official-Web/blob/main/1567762.jpg?raw=true'
-  }
 .header-text {
 color: #000000;
 font-family: Verdana;
@@ -17,6 +15,30 @@ font-family: Verdana;
 color: #000000;
 font-family: Verdana;
   }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
 
 
 
@@ -29,9 +51,12 @@ font-family: Verdana;
   <center><h1 class="header-text";>AriesTropixDev Official Web</h1></center>
   </header>
 <center>
-<p class='nav-bar';>
-  <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="news.html">News</a> | <a href="contact.html">Contact</a
-</p>  
+<ul>
+  <li><a href="home.html">Home</a></li>
+  <li><a href="news.html">News</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a class="active" href="about.html">About</a></li>
+</ul> 
   </center>  
 <center>
 <p class="tiny-text";>Welcome to AriesTropixDev Official Web! Be sure to check out my blog at news! Thank you for visiting here!</p>
