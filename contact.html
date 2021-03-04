@@ -6,23 +6,52 @@
 .header {
 background-color: #363636;
 width: 100%;
-height: 22px;
+height: 40px;
   }
 .header-text {
 color: #FFFFFF;
 font-family: Verdana;
   }
-.nav-bar {
-color: #FFFFFF;
-font-family: Verdana;
-list-style-type: none;
+ul {
+  position: -webkit-sticky;
+  position: sticky;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.contact-title {
+color: #FFFFFF;
+font-family: Verdana;
   }
-
-
-
-
+.contact-text {
+color: #FFFFFF;
+font-family: Verdana;
+  } 
+.email {
+color: #FFFFFF;
+font-family: Verdana;
+  }
+.discord {
+color: #FFFFFF;
+font-family: Verdana;
+  }
 
   </style>
   </head>
@@ -32,16 +61,21 @@ list-style-type: none;
   </header>
 <center>
 <p class='nav-bar';>
-  <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="news.html">News</a> | <a href="contact.html">Contact</a
+  <ul>
+  <li><a href="home.html">Home</a></li>
+  <li><a href="news.html">News</a></li>
+  <li><a href="contact.html">Contact</a></li>
+  <li><a class="active" href="about.html">About</a></li>
+</ul>
 </p>    
 
-  <center><h2>Contact</h2></center>
+  <center><h2 class='contact-title';>Contact</h2></center>
 
-  <center><p>Please feel free to contact me using one of the methods below! Thank you!</p></center>  
+  <center><p class='contact-text';>Please feel free to contact me using one of the methods below! Thank you!</p></center>  
 
   <center>
-    <p class=><b>Email: </b>daringriver4@yahoo.com</p>
-    <p><b>Discord: </b>AriesTropixDev#7721</p>
+    <p class='email';><b>Email: </b>daringriver4@yahoo.com</p>
+    <p class='discord';><b>Discord: </b>AriesTropixDev#7721</p>
   </center>                                                                                                     
   </body>
 </html>
